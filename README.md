@@ -22,9 +22,6 @@ Link ditaruh di bawah ini
 Dokumentasi detail mengenai cara kerja masing-masing modul dapat dilihat pada tautan berikut:
 
 - [Client](docs/client.md)
-- [Server Sync](docs/server-sync.md)
-- [Server Thread](docs/server-thread.md)
-- [Server Select](docs/server-select.md)
-- [Server Poll](docs/server-poll.md)
+- [Server](docs/server.md)
 
 ## Screenshot Hasil
