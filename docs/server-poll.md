@@ -14,7 +14,7 @@ Server ini secara konsep **identik dengan server-select**, namun menggunakan sys
 python server-poll.py
 ```
 
-> ⚠️ `select.poll()` tidak tersedia di Windows. Gunakan server-select.py jika di Windows.
+> `select.poll()` tidak tersedia di Windows.
 
 ---
 
