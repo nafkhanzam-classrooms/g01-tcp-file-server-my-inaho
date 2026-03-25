@@ -25,3 +25,5 @@ Dokumentasi detail mengenai cara kerja masing-masing modul dapat dilihat pada ta
 - [Server](docs/server.md)
 
 ## Screenshot Hasil
+
+<img src="./docs/img/2026-03-25-211922_hyprshot.png" alt="Hasil" width="500" height="300"/>
